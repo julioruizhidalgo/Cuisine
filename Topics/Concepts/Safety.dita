@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="Safety">
+    <title>Notes for kitchen safety</title>
+    <shortdesc>The following is required for your own safety while working in a kitchen</shortdesc>
+    <conbody>
+        <p></p>
+        <ul>
+            <li id="s1">Do not be drunk</li>
+            <li id="s2">Do not cut yourself intentionally</li>
+            <li id="s3">If it hurst, please stop</li>
+        </ul>
+    </conbody>
+</concept>

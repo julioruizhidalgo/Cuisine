@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title/>
+
+    <topicref/>
+
+    <topicref href="Topics/References/Countries-with-Mediterranean-Style.dita"/>
+    <topicref href="Topics/Concepts/What-is-Mediterranean-Cuisine.dita"/>
+   
+    <topicref href="Topics/Concepts/Country_1.dita">
+    <topicref href="Topics/Taks/Cuisine_A.1.dita" linking="targetonly" collection-type="sequence"></topicref>
+        <topicref href="Topics/Taks/Cuisine_A.2.dita" linking="targetonly" collection-type="sequence"></topicref>
+    </topicref>
+    
+    <topicref href="Topics/Concepts/Country_2.dita">
+        <topicref href="Topics/Taks/Cuisine_B.1.dita" linking="targetonly" collection-type="sequence"></topicref>
+        <topicref href="Topics/Taks/Cuisine_B.2.dita" linking="targetonly" collection-type="sequence"></topicref>
+    </topicref>
+
+
+    <topichead navtitle="Glossary">
+        <topichead navtitle="K">
+            <topicref href="Topics/Glossary/Glossary.dita#kishe"/>
+        </topichead>
+        <topichead navtitle="P">
+            <topicref href="Topics/Glossary/Glossary.dita#paella"/>
+        </topichead>
+        <topichead navtitle="R">
+            <topicref href="Topics/Glossary/Glossary.dita#ratatouille"/>
+        </topichead>
+        <topichead navtitle="T">
+            <topicref href="Topics/Glossary/Glossary.dita#tortilla"/>
+        </topichead>
+    </topichead>
+    <topicref href="secondmap.ditamap" format="ditamap"/>
+</map>

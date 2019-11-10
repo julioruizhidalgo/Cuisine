@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Kishe","href":"Topics\/Glossary\/Glossary.html#kishe","attributes": {"data-id":"kishe",},"menu": {"hasChildren":false,},"tocID":"kishe-d62e26","topics":[]}]});

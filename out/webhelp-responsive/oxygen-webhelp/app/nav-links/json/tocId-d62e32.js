@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Paella","href":"Topics\/Glossary\/Glossary_2.html#paella","attributes": {"data-id":"paella",},"menu": {"hasChildren":false,},"tocID":"paella-d62e33","topics":[]}]});

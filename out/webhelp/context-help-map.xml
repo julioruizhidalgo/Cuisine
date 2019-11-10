@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="Countries-with-Mediterranean-Style"
+               path="Topics/References/Countries-with-Mediterranean-Style.html"/>
+   <appContext helpID="What-is-Mediterranean-Cuisine"
+               path="Topics/Concepts/What-is-Mediterranean-Cuisine.html"/>
+   <appContext helpID="Country_1" path="Topics/Concepts/Country_1.html"/>
+   <appContext helpID="Cuisine_A.1" path="Topics/Taks/Cuisine_A.1.html"/>
+   <appContext helpID="Cuisine_A.2" path="Topics/Taks/Cuisine_A.2.html"/>
+   <appContext helpID="Counbtry_2" path="Topics/Concepts/Country_2.html"/>
+   <appContext helpID="Cuisine_B.1" path="Topics/Taks/Cuisine_B.1.html"/>
+   <appContext helpID="Cuisine_B.2" path="Topics/Taks/Cuisine_B.2.html"/>
+   <appContext helpID="kishe" path="Topics/Glossary/Glossary.html#kishe"/>
+   <appContext helpID="paella" path="Topics/Glossary/Glossary.html#paella"/>
+   <appContext helpID="ratatouille" path="Topics/Glossary/Glossary.html#ratatouille"/>
+   <appContext helpID="tortilla" path="Topics/Glossary/Glossary.html#tortilla"/>
+</map>

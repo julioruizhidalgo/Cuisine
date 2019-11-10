@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Cuisine_A.1">
+    <title>Cuisine A.1: Tortilla</title>
+    <shortdesc>This is how to make tortilla</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+            <image scope="external" href="https://www.fifteenspatulas.com/wp-content/uploads/2011/07/leekmanchegospanishtortilla3-large.jpg" placement="break">
+            <alt> Image of a Tortilla</alt>
+            </image>
+        </context>
+        <steps>
+            <step>
+                <cmd>Do this</cmd>
+            </step>
+            <step>
+                <cmd>Do that</cmd>
+            </step>
+            <step>
+                <cmd>Do this again</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

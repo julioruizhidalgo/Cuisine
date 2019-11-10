@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="Countries-with-Mediterranean-Style">
+    <title>Countries with Mediterranean Style</title>
+    <shortdesc>The cuisine of the countries surrounding the Mediterranean Sea, however, is extremely
+        diverse</shortdesc>
+    <refbody>
+        <section>
+            <title>Mediterranean countries</title>
+            <ul>
+                <li>France</li>
+                <li>Italy</li>
+                <li>Spain</li>
+            </ul>
+        </section>
+                   
+    </refbody>
+
+</reference>

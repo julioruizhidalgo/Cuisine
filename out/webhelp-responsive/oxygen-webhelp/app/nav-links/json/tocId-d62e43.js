@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Ratatouille","href":"Topics\/Glossary\/Glossary_3.html#ratatouille","attributes": {"data-id":"ratatouille",},"menu": {"hasChildren":false,},"tocID":"ratatouille-d62e44","topics":[]}]});

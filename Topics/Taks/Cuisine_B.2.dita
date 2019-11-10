@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Cuisine_B.2">
+    <title>Cuisine B.2: Kishe</title>
+ 
+    <shortdesc>This is how to make a French Kishe</shortdesc>
+
+    <taskbody>
+  
+        <context>
+            <image scope="external" href="https://www.bbcgoodfood.com/sites/default/files/6295_MEDIUM.jpg" placement="break">
+                <alt> Image of a kishe</alt>
+            </image>
+            <p>A kishe is a French dish</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Do this</cmd>
+            </step>
+            <step>
+                <cmd>Do that</cmd>
+            </step>
+            <step>
+                <cmd>Do this again</cmd>
+                
+            </step>
+           
+        </steps>
+       
+      
+    </taskbody>
+
+</task>

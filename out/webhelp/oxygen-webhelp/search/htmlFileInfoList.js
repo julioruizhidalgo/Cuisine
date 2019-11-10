@@ -1,0 +1,14 @@
+fil = new Array();
+fil["0"]= "Topics/Concepts/Country_1.html@@@Spain@@@Ole, Ole!...";
+fil["1"]= "Topics/Concepts/Country_2.html@@@France@@@Ou la, la!...";
+fil["2"]= "Topics/Concepts/What-is-Mediterranean-Cuisine.html@@@What is the Mediterranean food?@@@The Mediterranean diet is rich in lean proteins, like chicken, fish and legumes; fresh fruits and vegetables; whole, unprocessed grains; seeds and nuts; healthy fats like olive oil; and a limited intake of dairy and red meats...";
+fil["3"]= "Topics/Glossary/Glossary.html@@@Important term for Mediterranean Couisin@@@...";
+fil["4"]= "Topics/Glossary/Glossary_2.html@@@Important term for Mediterranean Couisin@@@...";
+fil["5"]= "Topics/Glossary/Glossary_3.html@@@Important term for Mediterranean Couisin@@@...";
+fil["6"]= "Topics/Glossary/Glossary_4.html@@@Important term for Mediterranean Couisin@@@...";
+fil["7"]= "Topics/References/Countries-with-Mediterranean-Style.html@@@Countries with Mediterranean Style@@@The cuisine of the countries surrounding the Mediterranean Sea, however, is extremely diverse...";
+fil["8"]= "Topics/Taks/Cuisine_A.1.html@@@Cuisine A.1: Tortilla@@@This is how to make tortilla...";
+fil["9"]= "Topics/Taks/Cuisine_A.2.html@@@Cuisine B.1: Paella@@@This is how to make paella...";
+fil["10"]= "Topics/Taks/Cuisine_B.1.html@@@Cuisine B.1: Ratatouille@@@This is how to make Ratatouille...";
+fil["11"]= "Topics/Taks/Cuisine_B.2.html@@@Cuisine B.2: Kishe@@@This is how to make a French Kishe...";
+var doStem = false;searchLoaded = true;

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><toc xmlns="http://www.oxygenxml.com/ns/webhelp/toc" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+   <title><span xmlns="http://www.w3.org/1999/xhtml" class="title"></span></title>
+   <topic href="Topics/References/Countries-with-Mediterranean-Style.html" data-id="Countries-with-Mediterranean-Style">
+      <title>Countries with Mediterranean Style</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">The cuisine of the countries surrounding the Mediterranean Sea, however, is extremely
+            diverse
+         </p>
+      </shortdesc>
+      <topicmeta></topicmeta>
+   </topic>
+   <topic href="Topics/Concepts/What-is-Mediterranean-Cuisine.html" data-id="What-is-Mediterranean-Cuisine">
+      <title>What is the Mediterranean food?</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">The Mediterranean diet is rich in lean proteins, like chicken, fish and legumes; fresh
+            fruits and vegetables; whole, unprocessed grains; seeds and nuts; healthy fats like
+            olive oil; and a limited intake of dairy and red meats.     
+         </p>
+      </shortdesc>
+      <topicmeta></topicmeta>
+   </topic>
+   <topic href="Topics/Concepts/Country_1.html" data-id="Country_1">
+      <title>Spain</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Ole, Ole!</p>
+      </shortdesc>
+      <topicmeta></topicmeta>
+      <topic href="Topics/Taks/Cuisine_A.1.html" collection-type="sequence" data-id="Cuisine_A.1">
+         <title>Cuisine A.1: Tortilla</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">This is how to make tortilla</p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+      <topic href="Topics/Taks/Cuisine_A.2.html" collection-type="sequence" data-id="Cuisine_A.2">
+         <title>Cuisine B.1: Paella</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">This is how to make paella </p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+   </topic>
+   <topic href="Topics/Concepts/Country_2.html" data-id="Counbtry_2">
+      <title>France</title>
+      <shortdesc>
+         <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc"> Ou la, la!</p>
+      </shortdesc>
+      <topicmeta></topicmeta>
+      <topic href="Topics/Taks/Cuisine_B.1.html" collection-type="sequence" data-id="Cuisine_B.1">
+         <title>Cuisine B.1: Ratatouille</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">This is how to make Ratatouille</p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+      <topic href="Topics/Taks/Cuisine_B.2.html" collection-type="sequence" data-id="Cuisine_B.2">
+         <title>Cuisine B.2: Kishe</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">This is how to make a French Kishe</p>
+         </shortdesc>
+         <topicmeta></topicmeta>
+      </topic>
+   </topic>
+   <topic href="javascript:void(0)">
+      <title>Glossary</title>
+      <topic href="javascript:void(0)">
+         <title>K</title>
+         <topic href="Topics/Glossary/Glossary.html#kishe" data-id="kishe">
+            <title>Kishe</title>
+            <topicmeta></topicmeta>
+         </topic>
+      </topic>
+      <topic href="javascript:void(0)">
+         <title>P</title>
+         <topic href="Topics/Glossary/Glossary_2.html#paella" data-id="paella">
+            <title>Paella</title>
+            <topicmeta></topicmeta>
+         </topic>
+      </topic>
+      <topic href="javascript:void(0)">
+         <title>R</title>
+         <topic href="Topics/Glossary/Glossary_3.html#ratatouille" data-id="ratatouille">
+            <title>Ratatouille</title>
+            <topicmeta></topicmeta>
+         </topic>
+      </topic>
+      <topic href="javascript:void(0)">
+         <title>T</title>
+         <topic href="Topics/Glossary/Glossary_4.html#tortilla" data-id="tortilla">
+            <title>Tortilla</title>
+            <topicmeta></topicmeta>
+         </topic>
+      </topic>
+   </topic>
+</toc>

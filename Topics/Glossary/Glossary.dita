@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossgroup PUBLIC "-//OASIS//DTD DITA Glossary Group//EN" "glossgroup.dtd">
+<glossgroup id="Glossary">
+    <title>Important term for Mediterranean Couisin</title>
+    <glossentry id="kishe">
+        <glossterm>Kishe</glossterm>
+        <glossdef>French dish with a lot of eggs</glossdef>
+    </glossentry>
+    
+    <glossentry id="paella">
+        <glossterm>Paella</glossterm>
+        <glossdef>Spanish dish based on rise and other stuff. Spanish people get very angry if you mistake the ingredients.</glossdef>
+    </glossentry>
+    
+    <glossentry id="ratatouille">
+        <glossterm>Ratatouille</glossterm>
+        <glossdef>A basic pisto manchego with a french touch</glossdef>
+    </glossentry>
+    <glossentry id="tortilla">
+        <glossterm>Tortilla</glossterm>
+        <glossdef>Spanish dish with a lot of eggs</glossdef>
+    </glossentry>
+</glossgroup>

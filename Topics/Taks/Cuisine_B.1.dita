@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Cuisine_B.1">
+    <title>Cuisine B.1: Ratatouille</title>
+    <shortdesc>This is how to make Ratatouille</shortdesc>
+    <taskbody>
+        <context>
+            <image scope="external" href="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/vegetable-ratatouille-v3-1547814693.jpg" placement="break">
+                <alt> Image of a ratatouille</alt>
+            </image>
+            <p></p>
+        </context>
+        <steps>
+            
+                <step>
+                    <cmd>Do this</cmd>
+                </step>
+                <step>
+                    <cmd>Do that</cmd>
+                </step>
+                <step>
+                    <cmd>Do this again</cmd>
+                </step>
+            
+        </steps>
+    </taskbody>
+</task>
